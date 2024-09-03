@@ -37,8 +37,6 @@ Para Android: Un dispositivo físico con la aplicación Expo Go instalada o un e
 🛠️ Configuración del Proyecto
 Clona el repositorio:
 
-bash
-Copiar código
 git clone https://github.com/luisfedericocanali/RavenPack-TechnicalChallenge
 cd RavenPack-TechnicalChallenge
 Instala las dependencias:
@@ -46,7 +44,6 @@ Instala las dependencias:
 Dentro del directorio del proyecto, ejecuta:
 
 
-Copiar código
 npm install
 
 ▶️ Ejecución de la Aplicación
