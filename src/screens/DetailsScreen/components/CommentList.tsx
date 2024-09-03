@@ -31,6 +31,7 @@ const styles = StyleSheet.create({
   },
   view: {
     padding: 10,
+    flex: 1,
   },
   commentContainer: {
     padding: 10,
