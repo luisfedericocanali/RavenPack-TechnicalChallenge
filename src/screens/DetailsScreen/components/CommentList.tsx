@@ -9,7 +9,7 @@ interface CommentListProps {
 const CommentList: React.FC<CommentListProps> = ({ comments }) => {
   return (
     <View style={styles.view}>
-      <Text style={styles.commentTitle}>Comentarios del usuario:</Text>
+      <Text style={styles.commentTitle}>Comentarios del post:</Text>
       <FlatList
         data={comments}
         keyExtractor={(item) => item.id.toString()}
